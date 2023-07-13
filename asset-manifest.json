@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ghitas2/Rentall-seg/static/css/main.64da3b95.css",
+    "main.js": "/ghitas2/Rentall-seg/static/js/main.5a9dfbb1.js",
+    "static/media/house2.jpg": "/ghitas2/Rentall-seg/static/media/house2.87e56bd05a9c9200a337.jpg",
+    "static/media/hero-img.jpg": "/ghitas2/Rentall-seg/static/media/hero-img.6bf08fe8a2341a0eff67.jpg",
+    "static/media/primeicons.svg": "/ghitas2/Rentall-seg/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/house1.jpg": "/ghitas2/Rentall-seg/static/media/house1.04cf1648905ec0032d95.jpg",
+    "static/media/bath2.jpg": "/ghitas2/Rentall-seg/static/media/bath2.3069680cd2fc8aff2dc5.jpg",
+    "static/media/bed4.jpg": "/ghitas2/Rentall-seg/static/media/bed4.d325256855b00355ee2d.jpg",
+    "static/media/bed3.jpg": "/ghitas2/Rentall-seg/static/media/bed3.6112743e2729e154db10.jpg",
+    "static/media/living-room.jpg": "/ghitas2/Rentall-seg/static/media/living-room.255d422b4a56fcd9bcf2.jpg",
+    "static/media/bed1.jpg": "/ghitas2/Rentall-seg/static/media/bed1.9e246f4340fc4d07e524.jpg",
+    "static/media/kitchen.jpg": "/ghitas2/Rentall-seg/static/media/kitchen.30699db8cf0053cf39e2.jpg",
+    "static/media/bed2.jpg": "/ghitas2/Rentall-seg/static/media/bed2.e6ba16d52f843b577b4e.jpg",
+    "static/media/apt1.jpeg": "/ghitas2/Rentall-seg/static/media/apt1.24bb930ff5bdeb7d8a36.jpeg",
+    "static/media/apt3.jpeg": "/ghitas2/Rentall-seg/static/media/apt3.823d618e7164526d5d58.jpeg",
+    "static/media/apt2.jpeg": "/ghitas2/Rentall-seg/static/media/apt2.019e0dd5fa55c2be1ee4.jpeg",
+    "static/media/bath1.jpg": "/ghitas2/Rentall-seg/static/media/bath1.a48b0894e5a75dbc5005.jpg",
+    "static/media/primeicons.eot": "/ghitas2/Rentall-seg/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/ghitas2/Rentall-seg/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/ghitas2/Rentall-seg/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/ghitas2/Rentall-seg/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/ghitas2/Rentall-seg/index.html",
+    "main.64da3b95.css.map": "/ghitas2/Rentall-seg/static/css/main.64da3b95.css.map",
+    "main.5a9dfbb1.js.map": "/ghitas2/Rentall-seg/static/js/main.5a9dfbb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64da3b95.css",
+    "static/js/main.5a9dfbb1.js"
+  ]
+}

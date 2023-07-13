@@ -1,7 +1,7 @@
 {
   "name": "real-estate-app",
   "version": "0.1.0",
-  " homepage": "https://github.com/ghitas2/Rentall-seg",
+  "homepage": "https://github.com/ghitas2/Rentall-seg",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",

@@ -1,0 +1,24 @@
+.carousel {
+    margin-top: 50px;
+}
+
+.carousel img[alt='testimonial'] {
+    width: 150px;
+}
+
+.text {
+    font-size: small;
+    font-style: italic;
+}
+
+div.carousel {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+}
+
+div.p-card {
+    margin-top: 10px;
+}

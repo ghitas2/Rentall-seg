@@ -1,0 +1,31 @@
+.img {
+    width: 626px;
+    height: 415px;
+}
+
+.search-price {
+    font-weight: 600;
+    color: #008000;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.search-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    width: 625px;
+    margin-left: 300px;
+    cursor: pointer;
+}
+
+.back {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    cursor: pointer;
+}

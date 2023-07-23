@@ -1,0 +1,21 @@
+.steps {
+    margin-left: 150px;
+    width: 1000px;
+}
+
+.td {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.next {
+    margin-top: 20px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.confirmation {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}

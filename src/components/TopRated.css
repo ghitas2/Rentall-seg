@@ -1,0 +1,31 @@
+.top-rated-title {
+    font-weight: bold;
+    font-size: medium;
+    margin-left: 40px;
+}
+
+.top-rated-text {
+    font-size: small;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 450px;
+}
+
+.views-content {
+    display: flex;
+    flex-direction: inherit;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.views {
+    font-style: italic;
+    font-size: small;
+    color: grey
+}
+
+.top-rated-group {
+    display: inline-block;
+    width: 100px;
+}

@@ -1,10 +1,12 @@
 import React from 'react'
 
 import {FaFacebook, FaInstagram, FaTwitter, FaPinterest} from 'react-icons/fa'
+import { useTranslation } from 'react-i18next'
 
 import './Footer.css'
 
 const Footer = () => {
+    const { t, i18n } = useTranslation();
     return (
         <div className='footer'>
             <div className='social'>
@@ -15,32 +17,32 @@ const Footer = () => {
             </div>
             <div className='container'>
                 <div className='col'>
-                    <h3>About</h3>
-                    <p>Company</p>
-                    <p>Details</p>
-                    <p>Planning</p>
-                    <p>About Us</p>
+                    <h3>{t('About')}</h3>
+                    <p>{t('Company')}</p>
+                    <p>{t('Details')}</p>
+                    <p>{t('Planning')}</p>
+                    <p>{t('AboutUs')}</p>
                 </div>
                 <div className='col'>
-                    <h3>Company</h3>
-                    <p>Company</p>
-                    <p>Details</p>
-                    <p>Planning</p>
-                    <p>About Us</p>
+                    <h3>{t('Company')}</h3>
+                    <p>{t('Company')}</p>
+                    <p>{t('Details')}</p>
+                    <p>{t('Planning')}</p>
+                    <p>{t('AboutUs')}</p>
                 </div>
                 <div className='col'>
-                    <h3>Legal</h3>
-                    <p>Company</p>
-                    <p>Details</p>
-                    <p>Planning</p>
-                    <p>About Us</p>
+                    <h3>{t('Legal')}</h3>
+                    <p>{t('Company')}</p>
+                    <p>{t('Details')}</p>
+                    <p>{t('Planning')}</p>
+                    <p>{t('AboutUs')}</p>
                 </div>
                 <div className='col'>
-                    <h3>Information</h3>
-                    <p>Company</p>
-                    <p>Details</p>
-                    <p>Planning</p>
-                    <p>About Us</p>
+                    <h3>{t('Information')}</h3>
+                    <p>{t('Company')}</p>
+                    <p>{t('Details')}</p>
+                    <p>{t('Planning')}</p>
+                    <p>{t('AboutUs')}</p>
                 </div>
             </div>
         </div>
